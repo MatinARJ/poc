@@ -1,1 +1,1 @@
-alert("YOOOOOOOOOOOOOOOOOOOO")
+alert(origin)
